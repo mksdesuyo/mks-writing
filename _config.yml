@@ -22,8 +22,8 @@ title: Curated by MKS
 email: rizqimks@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Writing is where great things begin. This site helps me solidify what I learn and contribute to others.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mks-writing" # the subpath of your site, e.g. /blog  
+url: "https://mksdesuyo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 instagram_username: houtarou_rizuki
 github_username:  mksdesuyo
