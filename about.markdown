@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello! I'm Rizqi MKS, a web developer from Garut with a passion for building things—both on and off the screen. My goal is to create clean, efficient solutions, whether it's a front-end or back-end system.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My Core Skillset:
+- Front-End: Vue.js
+- Back-End: Laravel
+- Cloud & IT: AWS Academy (Cloud Foundations & Architecting), Google Cloud Arcade Facilitator, Google IT Support
+- Professional: BNSP-Certified Junior Web Developer
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I believe growth happens everywhere. Like many others, I constantly wrestle with procrastination, self-doubt, and overthinking. That's why I'm always learning—whether it's mastering new languages like English and Japanese, or pushing my limits through weightlifting and running. Both teach me the same lesson: consistency is the key to overcoming any challenge.
 
-
-[jekyll-organization]: https://github.com/jekyll
+I'm always looking for new challenges and collaborations. This blog is one of them. I hope I can bring value to the table.
