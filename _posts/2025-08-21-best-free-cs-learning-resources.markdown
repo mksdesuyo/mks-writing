@@ -28,7 +28,6 @@ We've all been there: you want to build a project to showcase your skills, but c
 
 The platform provides you with professional, real-world UI designs for projects ranging from simple components to complex, multi-page applications. Your challenge is to bring these designs to life with code, matching them as closely as possible. It's the perfect environment to sharpen your HTML, CSS, and JavaScript skills while building projects that will look stunning in your portfolio.
 
-
 In summary, those are the three resources that truly changed the game for me. CS50 provided the foundational knowledge I was missing, The Odin Project taught me how to think and build like a real developer, and Frontend Mentor gave me the confidence to tackle professional-grade designs.
 
 Transitioning from academic theory to real-world application is a struggle, but it's a journey you don't have to take alone. These resources can be your guide, just as they were for me. Keep pushing, keep building, and never stop being curious.
