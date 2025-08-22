@@ -13,13 +13,17 @@ That struggle led me on a journey of self-discovery, exploring countless courses
 
 Here are the three learning resources that I personally believe were most impactful in leveling up my skills. It goes like:
 
-### 1.[**Harvard CS50**](https://cs50.harvard.edu/x/)
+### 1. [**Harvard CS50**](https://cs50.harvard.edu/x/)
 What if you could take the exact same introductory Computer Science class taught at Harvard University, for free, right from your bedroom? That's not a dream; that's **CS50**.
 
 **CS50** is a full-course, taught at Harvard and Yale University that covers algorithms, data structures, web development, and much more. It's freely accessible on Youtube via the **CS50** channel, introducing you to computer science essentials.
 
-### 2.[**The Odin Project**](https://www.theodinproject.com/)
+### 2. [**The Odin Project**](https://www.theodinproject.com/)
 Full-stack development is still one of the most in-demand fields in tech, and in my opinion, there is no better free resource to master it than **The Odin Project (TOP)**.
 
 Unlike typical video courses, **TOP** operates on a simple but powerful philosophy: you learn by building. This open-source curriculum doesn't just give you the answers; it guides you through building a portfolio of impressive, real-world projects from scratch. You'll learn how to read documentation and solve problems exactly like a professional developer does every day. By the end of the path, you won't just understand concepts—you'll have the skills and the projects to prove it.
-### 3.[**Frontend Mentor**](https://www.frontendmentor.io/)
+
+### 3. [**Frontend Mentor**](https://www.frontendmentor.io/)
+We've all been there: you want to build a project to showcase your skills, but coming up with a good design is a huge roadblock. We're developers, not designers, after all. This is exactly the problem **Frontend Mentor** was created to solve.
+
+The platform provides you with professional, real-world UI designs for projects ranging from simple components to complex, multi-page applications. Your challenge is to bring these designs to life with code, matching them as closely as possible. It's the perfect environment to sharpen your HTML, CSS, and JavaScript skills while building projects that will look stunning in your portfolio.
