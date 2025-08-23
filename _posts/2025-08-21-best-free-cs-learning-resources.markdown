@@ -3,6 +3,7 @@ layout: post
 title:  "MKS's Take: Some of The Best Free Learning Resources for CS Students"
 date:   2025-08-21 12:15:00 +0700
 categories: education
+author: Rizqi MKS
 ---
 
 As a computer science undergraduate in Indonesia, I'm also self-taught and love to learn various things. Early on, I noticed an unfortunate gap: the curriculum at university often pales in comparison to the skills needed in the real world. Despite a good GPA, I found myself struggling to meet the demands of the tech industry.
