@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "MKS's Take: Some of The Best Free Learning Resources for CS Students"
-date:   2025-08-21 12:15:00 +0700
-categories: education
+title: "MKS's Take: Some of The Best Free Learning Resources for CS Students"
+date: 2025-08-21 12:15:00 +0700
+categories:
+  - education
+  - tech
 author: Rizqi MKS
 ---
 
