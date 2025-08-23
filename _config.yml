@@ -27,6 +27,7 @@ url: "https://mksdesuyo.github.io" # the base hostname & protocol for your site,
 # twitter_username: jekyllrb
 instagram_username: houtarou_rizuki
 github_username:  mksdesuyo
+linkedin_username: rizqimks
 
 # Build settings
 theme: minima
