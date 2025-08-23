@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+nav_order: 2
 ---
 
 Hello! I'm Rizqi MKS, a web developer from Garut with a passion for building things—both on and off the screen. My goal is to create clean, efficient solutions, whether it's a front-end or back-end system.

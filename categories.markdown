@@ -2,9 +2,10 @@
 layout: default
 title: 'All Categories'
 permalink: /categories/
+nav_order: 1
 ---
 
-<h1 class="page-heading">All Categories</h1>
+<h2 class="post-list-heading">All Categories</h2>
 
 <div class="category-list">
   {% for category in site.categories %}
