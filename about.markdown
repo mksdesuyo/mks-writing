@@ -5,14 +5,10 @@ permalink: /about/
 nav_order: 2
 ---
 
-Hello! I'm Rizqi MKS, a web developer from Garut with a passion for building things—both on and off the screen. My goal is to create clean, efficient solutions, whether it's a front-end or back-end system.
+Hello! I'm Rizqi MKS. Let's get a few things out of the way: I'm a master procrastinator, an overthinker, deeply insecure, lazy perfectionist, you name it. I don't enjoy writing, and I rarely finish the books I start.
 
-My Core Skillset:
-- Front-End: Vue.js
-- Back-End: Laravel
-- Cloud & IT: AWS Academy (Cloud Foundations & Architecting), Google Cloud Arcade Facilitator, Google IT Support
-- Professional: BNSP-Certified Junior Web Developer
+This blog exists to fight all of that.
 
-I believe growth happens everywhere. Like many others, I constantly wrestle with procrastination, self-doubt, and overthinking. That's why I'm always learning—whether it's mastering new languages like English and Japanese, or pushing my limits through weightlifting and running. Both teach me the same lesson: consistency is the key to overcoming any challenge.
+It's my personal training ground for discipline. A place to challenge my perfectionism by actually publishing my work. A tool to combat my self-doubt by proving to myself, one post at a time, that I can learn and share something valuable.
 
-I'm always looking for new challenges and collaborations. This blog is one of them. I hope I can bring value to the table.
+This isn't a blog from an expert. It's a log of my ongoing battle to become a better, more consistent learner. Thanks for being here to witness it.
