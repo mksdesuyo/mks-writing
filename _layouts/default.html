@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+    <script>
+      window.addEventListener('message', event => {
+      // Checking comments
+      if (event.origin !== 'https://giscus.app') return;
+      if (!event.data.giscus) return;
+
+      const giscusData = event.data.giscus;
+      const commentLink = document.getElementById('comment-link');
+
+      // Refactor number if there is any comment
+      if (giscusData.discussion && commentLink) {
+        const commentCount = giscusData.discussion.totalCommentCount;
+        if (commentCount > 0){
+          const text = commentCount + (commentCount > 1 ? ' Comments' : ' Comment');
+          commentLink.textContent = text;
+        }
+      }
+    });
+    </script>
+  </body>
+
+</html>

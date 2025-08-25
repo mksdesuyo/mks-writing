@@ -29,6 +29,7 @@ layout: default
         ></span
       >
       {% endif %}
+      | <a id="comment-link" href="#comments">0 Comments</a>
       | <span>{{ minutes }} min read</span>
     </p>
   </header>
@@ -42,7 +43,7 @@ layout: default
 </article>
 
 <hr />
-<h2>Comments</h2>
+<h2 id="comments">Comments</h2>
 
 <script
   src="https://giscus.app/client.js"
@@ -53,7 +54,7 @@ layout: default
   data-mapping="pathname"
   data-strict="0"
   data-reactions-enabled="1"
-  data-emit-metadata="0"
+  data-emit-metadata="1"
   data-input-position="bottom"
   data-theme="catppuccin_latte"
   data-lang="en"
