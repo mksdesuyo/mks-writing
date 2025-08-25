@@ -17,12 +17,13 @@
 
     <script>
       window.addEventListener('message', event => {
-      // Checking comments
+      // Checking datas
       if (event.origin !== 'https://giscus.app') return;
       if (!event.data.giscus) return;
 
       const giscusData = event.data.giscus;
       const commentLink = document.getElementById('comment-link');
+      const reactionCountEl = document.getElementById('reaction-count');
 
       // Refactor number if there is any comment
       if (giscusData.discussion && commentLink) {
@@ -30,6 +31,15 @@
         if (commentCount > 0){
           const text = commentCount + (commentCount > 1 ? ' Comments' : ' Comment');
           commentLink.textContent = text;
+        }
+      }
+
+      // Refactor number if there is any reaction
+      if (giscusData.discussion && reactionCountEl) {
+        const reactionCount = giscusData.discussion.reactionCount;
+        if (reactionCount > 0){
+          const text = (reactionCount > 1 ? ' readers react to this' : ' reader react to this');
+          reactionCountEl.innerHTML = `<strong>${reactionCount}</strong>${text}`;
         }
       }
     });

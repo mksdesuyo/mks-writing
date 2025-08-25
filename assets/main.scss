@@ -6,3 +6,11 @@
 html {
   scroll-behavior: smooth;
 }
+.post-secondary {
+  display: flex;
+  justify-content: space-between;
+}
+.post-secondary span {
+  font-size: 14px;
+  color: #828282;
+}
