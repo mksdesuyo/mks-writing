@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{%- assign words = content | number_of_words -%}
+{%- assign minutes = words | divided_by: 180 | at_least: 1 -%}
 
 <article
   class="post h-entry"
@@ -26,7 +28,8 @@ layout: default
           >{{ page.author }}</span
         ></span
       >
-      {%- endif -%}
+      {% endif %}
+      | <span>{{ minutes }} min read</span>
     </p>
   </header>
 
