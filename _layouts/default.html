@@ -38,7 +38,7 @@
       if (giscusData.discussion && reactionCountEl) {
         const reactionCount = giscusData.discussion.reactionCount;
         if (reactionCount > 0){
-          const text = (reactionCount > 1 ? ' readers react to this' : ' reader react to this');
+          const text = (reactionCount > 1 ? ' reactions' : ' reaction');
           reactionCountEl.innerHTML = `<strong>${reactionCount}</strong>${text}`;
         }
       }
