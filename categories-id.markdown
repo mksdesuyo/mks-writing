@@ -1,24 +1,24 @@
 ---
 layout: default
-title: 'All Categories'
-permalink: /en/categories/
+title: 'Semua Kategori'
+permalink: /id/categories/
 nav_order: 1
-lang: en
+lang: id
 ref: categories
 ---
 
-<h1 class="page-heading">Categories</h1>
+<h1 class="page-heading">Kategori</h1>
 
 <div class="category-list">
-  {%- assign posts_in_lang = site.posts | where: "lang", "en" -%}
+  {%- assign posts_in_lang = site.posts | where: "lang", "id" -%}
   {%- assign categories_in_lang = posts_in_lang | map: "categories" | join: "," | split: "," | uniq | sort -%}
 
   {%- for category in categories_in_lang -%}
     {%- if category != "" -%}
       <div class="category-item">
-        {%- assign post_count = site.categories[category] | where: "lang", "en" | size -%}
+        {%- assign post_count = site.categories[category] | where: "lang", "id" | size -%}
 
-        <a href="{{ site.baseurl }}/en/categories/{{ category | slugify }}/">
+        <a href="{{ site.baseurl }}/id/categories/{{ category | slugify }}/">
           {{ category }} <span>({{ post_count }})</span>
         </a>
       </div>

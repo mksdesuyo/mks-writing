@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 nav_order: 2
+lang: en
+ref: about
 ---
 
 Hello! I'm Rizqi MKS. Let's get a few things out of the way: I'm a master procrastinator, an overthinker, deeply insecure, lazy perfectionist, you name it. I don't enjoy writing, and I rarely finish the books I start.

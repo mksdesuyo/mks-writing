@@ -1,5 +1,7 @@
 ---
 layout: category_archive
 category_name: tech
-permalink: /categories/tech/
+lang: en
+permalink: /en/categories/tech/
+ref: tech
 ---

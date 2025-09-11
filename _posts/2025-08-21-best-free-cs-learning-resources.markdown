@@ -6,6 +6,8 @@ categories:
   - education
   - tech
 author: Rizqi MKS
+lang: en
+ref: cs-learning-resources
 ---
 
 As a computer science undergraduate in Indonesia, I'm also self-taught and love to learn various things. Early on, I noticed an unfortunate gap: the curriculum at university often pales in comparison to the skills needed in the real world. Despite a good GPA, I found myself struggling to meet the demands of the tech industry.
